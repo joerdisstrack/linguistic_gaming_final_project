@@ -28,3 +28,5 @@ dinosaur - character: https://www.gameart2d.com/license.html, https://www.gamear
 
 Korean font: https://fonts.google.com/knowledge/glossary/licensing
 
+Setting of main stage and basic inspiration for game play: https://www.youtube.com/watch?v=Dkx8Pl6QKW0
+This however only teaches the basics of how to use pygame, we were interested in the squares/balls for our game.

@@ -1,3 +1,9 @@
+### Linguistic Gaming with Python - Final Project
+
+# WiSe 23/24
+# Names: Jisu Kim(01/12) and Jördis Strack(01/919685)
+# Basic Inspiration for stage and setting: https://www.youtube.com/watch?v=Dkx8Pl6QKW0
+
 import pygame
 import sys
 import os
@@ -455,7 +461,7 @@ def play():
                             "to_y": -6,
                             # set speed of ball based on size-index
                             "init_spd_y": ball_speed_y[ball_img_idx + 1],
-                            "word": word_list[collision_idx]
+                            "word": word_list[collision_idx % len(word_list)]
                         })
 
                         # and again for the second new ball, moving to the right
@@ -467,7 +473,7 @@ def play():
                             "to_x": 3,
                             "to_y": -6,
                             "init_spd_y": ball_speed_y[ball_img_idx + 1],
-                            "word": word_list[collision_idx + 1]
+                            "word": word_list[(collision_idx + 1) % len(word_list)]
                         })
 
                     break
