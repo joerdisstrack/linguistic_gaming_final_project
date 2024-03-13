@@ -1,7 +1,7 @@
 ### Linguistic Gaming with Python - Final Project
 
 # WiSe 23/24
-# Names: Jisu Kim(01/12) and Jördis Strack(01/919685)
+# Names: Jisu Kim and Jördis Strack
 # Basic Inspiration for stage and setting: https://www.youtube.com/watch?v=Dkx8Pl6QKW0
 
 import pygame

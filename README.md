@@ -4,8 +4,6 @@ Repo containing all final code, report and audio material of the final project f
 
 Names: Jisu Kim and Jördis Strack
 
-Matrikelnummer: 01/1246559 and 01/919685
-
 Program of study: Ma SEDS
 
 
