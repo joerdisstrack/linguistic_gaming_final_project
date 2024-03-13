@@ -1,13 +1,20 @@
 # linguistic_gaming_final_project
-Repo containing all final code, reports and audio materials of the final project for the class linguistic gaming with python.
+Repo containing all final code, report and audio material of the final project for the class linguistic gaming with python.
 
 
 Names: Jisu Kim and Jördis Strack
 
-Matrikelnummer: 01/XXXXXXX and 01/919685
+Matrikelnummer: 01/1246559 and 01/919685
 
 Program of study: Ma SEDS
 
+
+
+Setting of main stage and basic inspiration for game play: https://www.youtube.com/watch?v=Dkx8Pl6QKW0
+This however only teaches the basics of how to use pygame, we were interested in the squares/balls for our game.
+
+
+Image origins and licenses:
 
 The background image used stems from Unsplash and is used under their license: https://unsplash.com/de/lizenz
 
@@ -27,6 +34,3 @@ boy - character: https://www.gameart2d.com/license.html, https://www.gameart2d.c
 dinosaur - character: https://www.gameart2d.com/license.html, https://www.gameart2d.com/free-dino-sprites.html
 
 Korean font: https://fonts.google.com/knowledge/glossary/licensing
-
-Setting of main stage and basic inspiration for game play: https://www.youtube.com/watch?v=Dkx8Pl6QKW0
-This however only teaches the basics of how to use pygame, we were interested in the squares/balls for our game.
